@@ -1,0 +1,6 @@
+node_modules/
+_gen/
+public/
+.hugo_build.lock
+hugo_stats.json
+
